@@ -18,11 +18,6 @@
 - 🌱 Currently leveling up in **Advanced Flutter patterns**
 - 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00
 - 💼 Open to **Junior & Freelance** opportunities
-- 📱 **Flutter Developer** building cross-platform apps for local & international clients  
-- 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX  
-- 🌱 Currently leveling up in **Advanced Flutter patterns**  
-- 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00  
-- 💼 Open to **Junior & Freelance** opportunities  
 - 📫 **Email:** hadiiheikal@gmail.com
 
 <br>
@@ -101,9 +96,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 <br>
 
