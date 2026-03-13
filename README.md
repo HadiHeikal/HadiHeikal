@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=150&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
 <p align="center">
@@ -18,12 +18,13 @@
 </h2>
 
 
-- 📱 **Flutter Developer** building cross-platform apps for local & international clients
-- 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX
-- 🌱 Currently leveling up in **Advanced Flutter patterns**
-- 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00
-- 💼 Open to **Junior & Freelance** opportunities
-- 📫 **Email:** hadiiheikal@gmail.com
+- 📱 **Flutter Developer** building scalable cross-platform mobile applications
+- 🧠 Specialized in **Clean Architecture, BLoC/Cubit**, and well-structured Flutter codebases
+- 🎯 Focused on delivering **smooth UI/UX and reliable production-ready apps**
+- 🎓 **Computer Science Graduate** — Banha University | GPA **3.57 / 4.00**
+- 🚀 Currently exploring **advanced Flutter patterns and scalable app architecture**
+- 💼 Open to **Junior Flutter roles** and **Freelance opportunities**
+- 📬 **Contact:** [hadiiheikal@gmail.com](mailto:hadiiheikal@gmail.com)
 
 <br>
 
