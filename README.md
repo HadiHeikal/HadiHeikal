@@ -11,7 +11,12 @@
 </div>
 
 
-## 🙋‍♂️ About Me
+<!-- About Me Section -->
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <span style="color: #8B5CF6;">About Me</span>
+</h2>
+
 
 - 📱 **Flutter Developer** building cross-platform apps for local & international clients
 - 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX
