@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/profile.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/hadi.png" width="100%" />
 </p>
 
 <br>
@@ -56,21 +56,6 @@
 | [☁️ SkyCast](https://github.com/HadiHeikal/SkyCast) | Real-time weather app with dynamic theming | Flutter · Cubit · Dio |
 | [📰 A5bar Cloud](https://github.com/HadiHeikal/A5barCloud) | Live news app with bookmarks & categories | Flutter · REST API |
 | [🛒 Grocery App](https://github.com/HadiHeikal/GroceryApp) | Smart shopping app with cart management | Flutter · Cubit |
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
-
-## 🏆 Achievements
-
-- 🥇 **Co-Coach** — ECPC Qualifications (2023–2024)
-- 🌐 **IEEEXtreme 17.0** Participant — IEEE (2023–2024)
-- 🌐 **IEEEXtreme 16.0** Participant — IEEE (2022–2023)
-- 🏅 **66th Place** — ECPC Qualifications (2022–2023)
 
 <br>
 
