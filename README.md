@@ -61,41 +61,32 @@
 
 <br>
 
+
 <!-- ================= TECHNOLOGY STACK ================= -->
 
 ## ⚙️ Technology Stack
 
-<!-- Main technologies you specialize in -->
 ### 🥇 Primary Technology Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=for-the-badge)
 
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23121011.svg?style=for-the-badge)
-
-</div>
-
-<!-- Supporting technologies used frequently -->
 ### 🥈 Secondary Technology Stack
+![BLoC / Cubit](https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-00A8E8?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<div align="center">
-
-![State Management](https://img.shields.io/badge/State%20Management-BLoC%20%2F%20Cubit-%2300B4DB.svg?style=for-the-badge)![API Integration](https://img.shields.io/badge/API%20Integration-%2300A8E8.svg?style=for-the-badge)![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-<!-- Supporting developer tools -->
 ### 🥉 Tertiary Technology Stack
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <!-- Decorative divider -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+
 <!-- ================= PERSONAL STATS ================= -->
 
 ## 📊 Personal Stats
