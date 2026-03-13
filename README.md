@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hadi Heikal</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi!%20I'm%20Hadi%20Heikal%20👋-00B4DB?style=for-the-badge&logoColor=white" height="45" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=F75C7E&width=500&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=00B4DB&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Open+to+Work+%7C+Local+%26+Remote+💼" />
 </p>
 
 <div align="center">
@@ -49,6 +51,21 @@
 | [☁️ SkyCast](https://github.com/HadiHeikal/SkyCast) | Real-time weather app with dynamic theming | Flutter · Cubit · Dio |
 | [📰 A5bar Cloud](https://github.com/HadiHeikal/A5barCloud) | Live news app with bookmarks & categories | Flutter · REST API |
 | [🛒 Grocery App](https://github.com/HadiHeikal/GroceryApp) | Smart shopping app with cart management | Flutter · Cubit |
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<br>
+
+## 🏆 Achievements
+
+- 🥇 **Co-Coach** — ECPC Qualifications (2023–2024)
+- 🌐 **IEEEXtreme 17.0** Participant — IEEE (2023–2024)
+- 🌐 **IEEEXtreme 16.0** Participant — IEEE (2022–2023)
+- 🏅 **66th Place** — ECPC Qualifications (2022–2023)
 
 <br>
 
@@ -125,6 +142,12 @@
 ## 🔵 Views & Followers
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=F75C7E&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat" />
   <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" />
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!%20🚀-00B4DB?style=for-the-badge&logoColor=white" height="40" />
+</p>
