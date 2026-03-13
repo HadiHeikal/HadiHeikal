@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hadi+Heikal!+📱;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=3500&pause=1000&color=F7971E&color=FFD200&lines=Hi+There!+👋;I'm+Hadi+Heikal!;Building+Apps,+One+Widget+at+a+Time+🚀;Flutter+Developer+📱;Clean+Code+Enthusiast+✨" />
 </div>
 
 <br>
@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me:
 - 📱 I'm a **Flutter Developer** passionate about building beautiful cross-platform apps.
 - 🎯 Focused on **Clean Architecture, BLoC/Cubit, and smooth UI/UX**.
-- 🌱 Currently leveling up in **Advanced Flutter & Clean Architecture patterns**.
+- 🌱 Currently leveling up in **Advanced Flutter & Clean Architecture**.
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/HadiHeikal?tab=repositories)**.
 - 📫 Reach me at **hadiiheikal@gmail.com**
 
@@ -21,8 +21,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio,vscode,postman" /><br>
 </div>
 
 <br>
@@ -35,16 +34,14 @@
 
 ## 📊 My Stats:
 <p align="center">
-    <a href="https://github.com/HadiHeikal/github-readme-streak-stats">
-        <img title="🔥 Streak Stats" alt="HadiHeikal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img alt="HadiHeikal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 <a href="https://github.com/HadiHeikal/github-readme-stats">
     <img alt="HadiHeikal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/HadiHeikal/github-readme-stats">
-    <img alt="HadiHeikal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 <br>
@@ -81,5 +78,5 @@
     <img src="https://komarev.com/ghpvc/?username=HadiHeikal">
 </a>
 <a href="https://github.com/HadiHeikal?tab=followers">
-    <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" />
 </a>
