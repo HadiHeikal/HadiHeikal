@@ -12,11 +12,13 @@
 
 <br>
 
-## 🙋‍♂️ About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/profile.png" width="100%" />
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
+<br>
+
+## 🙋‍♂️ About Me
 
 - 📱 **Flutter Developer** building cross-platform apps for local & international clients
 - 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX
@@ -24,15 +26,6 @@
 - 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00
 - 💼 Open to **Junior & Freelance** opportunities
 - 📫 **hadiiheikal@gmail.com**
-
-    </td>
-    <td valign="top" width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/hadi.png"
-           width="200"
-           style="border-radius:12px; border:2px solid #00B4DB;" />
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -70,6 +63,22 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
+<br>
+
+## 🏆 Achievements
+
+- 🥇 **Co-Coach** — ECPC Qualifications (2023–2024)
+- 🌐 **IEEEXtreme 17.0** Participant — IEEE (2023–2024)
+- 🌐 **IEEEXtreme 16.0** Participant — IEEE (2022–2023)
+- 🏅 **66th Place** — ECPC Qualifications (2022–2023)
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<br>
 
 ## 📊 My Stats
 
@@ -135,7 +144,7 @@
 
 <br>
 
-## Views & Followers
+## 💜 Views & Followers
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat" />
