@@ -13,18 +13,17 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/hadi.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/hadi.png" width="400" style="border-radius:12px;" />
 </p>
-
-<br>
 
 ## 🙋‍♂️ About Me
 
-- 📱 **Flutter Developer** building cross-platform apps for local & international clients
-- 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX
-- 🌱 Currently leveling up in **Advanced Flutter patterns**
+- 📱 **Flutter Developer** — 2+ years building cross-platform mobile apps
+- 🎯 Specialized in **BLoC/Cubit, Clean Architecture & REST APIs**
+- 🔥 Passionate about **smooth animations & pixel-perfect UI**
+- 🌱 Currently exploring **Riverpod & advanced state patterns**
 - 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00
-- 💼 Open to **Junior & Freelance** opportunities
+- 💼 Available for **Junior roles & Freelance projects**
 - 📫 **hadiiheikal@gmail.com**
 
 <br>
@@ -38,7 +37,7 @@
 ## 🚀 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,androidstudio,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,figma,github,androidstudio,vscode,postman,git,python" />
 </div>
 
 <br>
@@ -64,6 +63,8 @@
 </div>
 
 <br>
+
+
 
 ## 📊 My Stats
 
@@ -129,7 +130,7 @@
 
 <br>
 
-## 💜 Views & Followers
+## 🔵 Views & Followers
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat" />
