@@ -201,6 +201,18 @@ As a passionate **Mobile App Developer**, I specialize in building **scalable an
 
 <br>
 
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HadiHeikal&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
 <!-- ================= CONTACT SECTION ================= -->
 
 ## 🤝 Connect With Me
