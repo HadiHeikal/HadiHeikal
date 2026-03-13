@@ -106,30 +106,33 @@
 </p>
 
 <br>
----
+
 
 ## 🤝 Connect With Me
 
 <div align="center">
-<p align="center">
   <a href="https://www.linkedin.com/in/hadi-heikal-b113291b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-@@ -107,31 +67,19 @@
+  <a href="mailto:hadiiheikal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201126781313" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://t.me/HadiHeikal" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-00B4DB?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://mostaql.com/u/hadiiheikal" target="_blank">
     <img src="https://img.shields.io/badge/Mostaql-00B4DB?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
   <a href="https://khamsat.com/user/hadiiheikal" target="_blank">
-    <img src="https://img.shields.io/badge/Khamsat-0083B0?style=for-the-badge&logo=shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Khamsat-00B4DB?style=for-the-badge&logo=shopify&logoColor=white" />
   </a>
 </div>
-</p>
 
 <br>
----
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -151,5 +154,5 @@
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer" width="100%" />
 </p>
