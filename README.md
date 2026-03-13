@@ -146,9 +146,11 @@
     <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
 </a>
 <a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer" width="100%" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=100&section=footer" width="100%" />
