@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=800&color=F7971E&secondColor=FFD200&center=true&vCenter=true&width=560&height=60&lines=Hi+👋+I'm+Hadi+Heikal!" />
-</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <strong style="font-size:2rem"> I'm Hadi Heikal</strong>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=F7971E&secondColor=FFD200&width=560&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Always+Learning+📚" />
