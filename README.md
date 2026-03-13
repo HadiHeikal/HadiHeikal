@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E,f953c6&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=F75C7E&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Open+to+Work+%7C+Local+%26+Remote+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=00B4DB&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Open+to+Work+%7C+Local+%26+Remote+💼" />
 </p>
 
 <div align="center">
@@ -14,12 +14,25 @@
 
 ## 🙋‍♂️ About Me
 
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
 - 📱 **Flutter Developer** building cross-platform apps for local & international clients
 - 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX
 - 🌱 Currently leveling up in **Advanced Flutter patterns**
 - 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00
-- 👨‍💻 Check out my projects → [My Repositories](https://github.com/HadiHeikal?tab=repositories)
-- 📫 Reach me at **hadiiheikal@gmail.com**
+- 💼 Open to **Junior & Freelance** opportunities
+- 📫 **hadiiheikal@gmail.com**
+
+    </td>
+    <td valign="top" width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/hadi.png"
+           width="200"
+           style="border-radius:12px; border:2px solid #00B4DB;" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -47,9 +60,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [☁️ SkyCast](https://github.com/HadiHeikal) | Real-time weather app with dynamic theming | Flutter · Cubit · Dio |
-| [📰 A5bar Cloud](https://github.com/HadiHeikal) | Live news app with bookmarks & categories | Flutter · REST API |
-| [🛒 Grocery App](https://github.com/HadiHeikal) | Smart shopping app with cart management | Flutter · Cubit |
+| [☁️ SkyCast](https://github.com/HadiHeikal/SkyCast) | Real-time weather app with dynamic theming | Flutter · Cubit · Dio |
+| [📰 A5bar Cloud](https://github.com/HadiHeikal/A5barCloud) | Live news app with bookmarks & categories | Flutter · REST API |
+| [🛒 Grocery App](https://github.com/HadiHeikal/GroceryApp) | Smart shopping app with cart management | Flutter · Cubit |
 
 <br>
 
@@ -57,13 +70,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
 
 ## 📊 My Stats
 
@@ -114,10 +120,10 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://mostaql.com/u/hadiiheikal" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-F75C7E?style=for-the-badge&logo=freelancer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mostaql-00B4DB?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
   <a href="https://khamsat.com/user/hadiiheikal" target="_blank">
-    <img src="https://img.shields.io/badge/Khamsat-FF6B35?style=for-the-badge&logo=shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Khamsat-0083B0?style=for-the-badge&logo=shopify&logoColor=white" />
   </a>
 </div>
 
@@ -129,15 +135,15 @@
 
 <br>
 
-## 💜 Views & Followers
+## Views & Followers
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=F75C7E&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat" />
   <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E,f953c6&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=100&section=footer" width="100%" />
 </p>
