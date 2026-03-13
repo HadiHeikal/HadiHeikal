@@ -1,70 +1,46 @@
-<h2 align="center">Hey there, <coders/>! 👋 I'm Hadi Heikal</h2>
+<h1 align="center">Hi 👋, I'm Hadi Heikal</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&color=F75C7E&width=450&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=F75C7E&width=500&lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Architecture+Lover;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📱 **Flutter Developer** passionate about building scalable mobile apps.
-- 🎓 **Computer Science Graduate**
-- 🧠 Currently improving my skills in **Advanced Flutter & State Management**
-- 🎨 Focused on **Clean UI, Performance, and Maintainable Code**
-- 🚀 Interested in **Mobile Architecture, APIs, and Problem Solving**
-- 🤝 Open to **Junior Flutter opportunities & freelance projects**
+- 📱 Flutter Developer passionate about building modern mobile apps  
+- 🎓 Computer Science Graduate  
+- 🔥 Focused on **Clean Architecture & State Management**  
+- 🎨 Love building **smooth UI & good UX**  
+- 🚀 Currently improving my **Advanced Flutter skills**  
+- 🤝 Open to **Junior Flutter opportunities**
 
 📫 **Email:** hadi iheikal@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## 👀 Profile Visitors
 
-### 🌤 Weather App
-A Flutter app that displays real-time weather information.
-
-**Features**
-- City-based weather search
-- Dynamic UI based on weather condition
-- Error & empty state handling
-
-**Tech**
-Flutter • Cubit • REST API • Dio
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+</p>
 
 ---
 
-### 📰 News App
-Mobile application that displays live news from multiple categories.
+## 🏆 GitHub Trophies
 
-**Features**
-- Category filtering
-- Pull-to-refresh
-- Cached images
-- API integration
-
-**Tech**
-Flutter • REST API • Cached Network Images
-
----
-
-### 🛒 Grocery App
-Simple shopping app with cart management and smooth navigation.
-
-**Features**
-- Product browsing
-- Add / remove items from cart
-- Responsive UI
-
-**Tech**
-Flutter • Cubit • Clean UI
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HadiHeikal&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman" />
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman"/>
+
 </p>
 
 ---
@@ -73,9 +49,19 @@ Flutter • Cubit • Clean UI
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -101,4 +87,14 @@ Flutter • Cubit • Clean UI
 
 ---
 
-⭐ Always learning and building better mobile apps.
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀"/>
+</p>
