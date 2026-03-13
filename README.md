@@ -87,9 +87,9 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/github-contribution-grid-snake-dark.svg" />
-</div>
+</p>
 
 <br>
 
