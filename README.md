@@ -47,7 +47,47 @@
 
 <br>
 
+## 📊 Personal Stats
 
+I'm a **Flutter Developer** passionate about building clean, scalable, and user-friendly mobile applications.  
+I enjoy transforming ideas into real products using modern mobile technologies and well-structured architectures.
+
+Through my academic journey and hands-on projects, I’ve focused on developing practical skills in mobile development, API integrations, and building responsive user interfaces.
+
+<details>
+<summary><strong>Highlights • Skills • Interests</strong></summary>
+
+### ⭐ Highlights
+- Computer Science graduate focused on mobile application development.
+- Completed **Flutter training at ITI**, gaining hands-on experience building real applications.
+- Built multiple Flutter apps including **Weather App** and **News App**.
+- Strong interest in **clean architecture and scalable mobile apps**.
+- Constantly improving my development skills through real projects.
+
+### 🛠 Tech Stack
+- **Mobile Development:** Flutter, Dart  
+- **State Management:** BLoC, Cubit  
+- **Backend Services:** Firebase  
+- **APIs:** RESTful APIs integration  
+- **Tools:** Git, GitHub, Postman, VS Code  
+- **UI Development:** Responsive and user-focused interfaces
+
+### 🚀 Interests
+- Building real-world mobile applications
+- Improving app architecture and performance
+- Learning modern mobile development practices
+
+### 💡 Beliefs
+- Continuous learning is essential for every developer.
+- Clean and maintainable code makes scalable products.
+- Great software comes from collaboration and good design.
+
+</details>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 ## 📱 Featured Projects
 
 | Project | Description | Stack |
