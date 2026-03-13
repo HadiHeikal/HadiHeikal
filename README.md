@@ -1,62 +1,63 @@
 <h1 align="center">👋 Hey there! I'm Hadi Heikal</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&color=F75C7E&width=600&lines=Flutter+Developer;Creating+Beautiful+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&color=F75C7E&width=600&lines=Flutter+Developer;Building+Beautiful+Cross-Platform+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
 </p>
 
-<!-- Animated Divider -->
+<!-- Elegant Divider -->
 <p align="center">
-<img src="https://c.tenor.com/FbO6vf_5__4AAAAC/lines-moving.gif" width="400"/>
+<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(-1deg)"></span>
 </p>
 
 ## 👨‍💻 About Me
 
-- 📱 **Flutter Developer** | Building fast, cross-platform mobile apps  
-- 🎓 **Computer Science Graduate** passionate about **mobile development**  
+- 📱 Flutter Developer | Crafting **fast, cross-platform apps**  
+- 🎓 CS Graduate passionate about **mobile engineering**  
 - 🎨 Focused on **Clean UI, Smooth Animations, and Maintainable Code**  
-- 🔥 Experienced in **State Management (Bloc/Cubit/Riverpod), Firebase, REST APIs**  
+- 🔥 Experienced in **Bloc/Cubit/Riverpod, Firebase, REST APIs**  
 - 🧠 Problem solver | Writing **scalable & clean code**  
 - 🤝 Open to **Junior & Freelance Flutter opportunities**  
 
 📫 **Email:** [hadiiheikal@gmail.com](mailto:hadiiheikal@gmail.com)
 
-<!-- Animated Divider -->
+<!-- Elegant Divider -->
 <p align="center">
-<img src="https://c.tenor.com/FbO6vf_5__4AAAAC/lines-moving.gif" width="400"/>
+<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(1deg)"></span>
 </p>
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-</p>
-
----
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman" />
 </p>
 
----
+<!-- Elegant Divider -->
+<p align="center">
+<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(-1deg)"></span>
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=radical&hide_border=false&langs_count=8&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&bg_color=0D1117"/>
 </p>
 
----
+<!-- Elegant Divider -->
+<p align="center">
+<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(1deg)"></span>
+</p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=radical&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=false"/>
 </p>
 
----
+<!-- Elegant Divider -->
+<p align="center">
+<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(-1deg)"></span>
+</p>
 
 ## 🔗 Connect With Me
 
@@ -72,11 +73,7 @@
 </a>
 </p>
 
-<!-- Animated Divider -->
+<!-- Typing Outro -->
 <p align="center">
-<img src="https://c.tenor.com/FbO6vf_5__4AAAAC/lines-moving.gif" width="400"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀;Follow+for+Flutter+Magic"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀;Follow+for+Flutter+Magic"/>
 </p>
