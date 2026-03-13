@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E,FFD200&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E,f953c6&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=F7971E&secondColor=FFD200&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Always+Learning+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=F75C7E&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Open+to+Work+%7C+Local+%26+Remote+💼" />
 </p>
 
 <div align="center">
@@ -14,10 +14,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 📱 **Flutter Developer** building cross-platform mobile apps for local & international clients
+- 📱 **Flutter Developer** building cross-platform apps for local & international clients
 - 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX
 - 🌱 Currently leveling up in **Advanced Flutter patterns**
-- 👨‍💻 Check out all my projects → [My Repositories](https://github.com/HadiHeikal?tab=repositories)
+- 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00
+- 👨‍💻 Check out my projects → [My Repositories](https://github.com/HadiHeikal?tab=repositories)
 - 📫 Reach me at **hadiiheikal@gmail.com**
 
 <br>
@@ -31,9 +32,40 @@
 ## 🚀 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /><br><br>
-  <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" /><br><br>
+  <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,postman,figma" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<br>
+
+## 📱 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [☁️ SkyCast](https://github.com/HadiHeikal) | Real-time weather app with dynamic theming | Flutter · Cubit · Dio |
+| [📰 A5bar Cloud](https://github.com/HadiHeikal) | Live news app with bookmarks & categories | Flutter · REST API |
+| [🛒 Grocery App](https://github.com/HadiHeikal) | Smart shopping app with cart management | Flutter · Cubit |
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<br>
+
+## 🏆 Achievements
+
+- 🥇 **Co-Coach** — ECPC Qualifications (2023–2024)
+- 🌐 **IEEEXtreme 17.0** Participant — IEEE (2023–2024)
+- 🌐 **IEEEXtreme 16.0** Participant — IEEE (2022–2023)
+- 🏅 **66th Place** — ECPC Qualifications (2022–2023)
 
 <br>
 
@@ -68,8 +100,6 @@
   <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> ⚠️ لتشغيل الـ Snake: روح **Actions** tab في الـ repo → فعّل الـ workflows → شغل "Generate Snake" مرة واحدة
-
 <br>
 
 <div align="center">
@@ -85,17 +115,26 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hadiiheikal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/201126781313">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://mostaql.com/u/YOUR_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/Mostaql-F75C7E?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-135a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 <br>
@@ -103,10 +142,12 @@
 ## 💜 Views & Followers
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=F7971E&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=F75C7E&style=flat" />
   <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" />
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E,FFD200&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E,f953c6&height=100&section=footer" width="100%" />
 </p>
