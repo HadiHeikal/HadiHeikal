@@ -1,9 +1,11 @@
+<h1 align="center">Hi 👋, I'm Hadi Heikal</h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=00B4DB&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Open+to+Work+%7C+Local+%26+Remote+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=00B4DB&width=500&lines=Flutter+Developer+📱;Building+Modern+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
 </p>
 
 <div align="center">
@@ -14,12 +16,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 📱 **Flutter Developer** building cross-platform apps for local & international clients
-- 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX
-- 🌱 Currently leveling up in **Advanced Flutter patterns**
-- 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00
-- 💼 Open to **Junior & Freelance** opportunities
-- 📫 **Email:** hadiiheikal@gmail.com
+- 📱 **Flutter Developer** building cross-platform apps for local & international clients  
+- 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX  
+- 🌱 Continuously learning **Advanced Flutter & Firebase**  
+- 🎓 **Computer Science Graduate** — Banha University | GPA 3.57/4.00  
+- 💼 Open to **Junior & Freelance** opportunities  
+- 📫 **Email:** hadiiheikal@gmail.com  
 
 <br>
 
@@ -101,7 +103,7 @@
   <a href="mailto:hadiiheikal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/201126781313">
+  <a href="https://wa.me/201126781313" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/HadiHeikal" target="_blank">
