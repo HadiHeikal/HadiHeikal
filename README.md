@@ -32,7 +32,6 @@
 </div>
 
 <br>
----
 
 ## 🚀 Languages & Tools
 
@@ -47,7 +46,7 @@
 </div>
 
 <br>
----
+
 
 ## 📱 Featured Projects
 
@@ -65,7 +64,6 @@
 
 <br>
 
-## 📊 My Stats
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -139,20 +137,20 @@
 </div>
 
 
-## 💜 Views and Followers:
----
+## 👨🏻‍💻 Views and Followers
 
-<a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+<a href="https://github.com/HadiHeikal/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=HadiHeikal">
 </a>
 
-<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/HadiHeikal?tab=followers">
+    <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" alt="GitHub Badge">
+</a>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💙;+Shoot+me+a+message+on+Linkedin!;Always+Learning+🚀&color=00B4DB">
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=100&section=footer" width="100%" />
 </p>
-
