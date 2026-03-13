@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=00B4DB&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Open+to+Work+%7C+Local+%26+Remote+💼" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=00B4DB,0083B0&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Open+to+Work+%7C+Local+%26+Remote+💼" />
-</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
