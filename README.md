@@ -1,36 +1,34 @@
-<h1 align="center">Hi 👋, I'm Hadi Heikal</h1>
+<h1 align="center">👋 Hey there! I'm Hadi Heikal</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=F75C7E&width=500&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&color=F75C7E&width=600&lines=Flutter+Developer;Creating+Beautiful+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+<img src="https://c.tenor.com/FbO6vf_5__4AAAAC/lines-moving.gif" width="400"/>
+</p>
 
 ## 👨‍💻 About Me
 
-- 📱 **Flutter Developer** | Building **cross-platform mobile apps**  
-- 🎓 **Computer Science Graduate** passionate about **mobile software engineering**  
-- 🎨 Focused on **Clean UI, smooth animations, and maintainable code**  
-- 🔥 Experienced in **State Management (Bloc/Cubit/Riverpod), Firebase, APIs**  
-- 🧠 Problem solver | Love writing **scalable and clean code**  
+- 📱 **Flutter Developer** | Building fast, cross-platform mobile apps  
+- 🎓 **Computer Science Graduate** passionate about **mobile development**  
+- 🎨 Focused on **Clean UI, Smooth Animations, and Maintainable Code**  
+- 🔥 Experienced in **State Management (Bloc/Cubit/Riverpod), Firebase, REST APIs**  
+- 🧠 Problem solver | Writing **scalable & clean code**  
 - 🤝 Open to **Junior & Freelance Flutter opportunities**  
 
-📫 **Email:** hadi iheikal@gmail.com
+📫 **Email:** [hadiiheikal@gmail.com](mailto:hadiiheikal@gmail.com)
 
----
+<!-- Animated Divider -->
+<p align="center">
+<img src="https://c.tenor.com/FbO6vf_5__4AAAAC/lines-moving.gif" width="400"/>
+</p>
 
 ## 👀 Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HadiHeikal&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -46,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=radical&hide_border=false&langs_count=8&bg_color=0D1117"/>
 </p>
 
 ---
@@ -55,15 +53,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=radical&hide_border=false"/>
 </p>
 
 ---
@@ -82,8 +72,11 @@
 </a>
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+<img src="https://c.tenor.com/FbO6vf_5__4AAAAC/lines-moving.gif" width="400"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀;Follow+for+Flutter+Magic"/>
 </p>
