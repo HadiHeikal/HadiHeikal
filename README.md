@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
+  <img src="https://img.shields.io/badge/Hi!%20I'm%20Hadi%20Heikal%20👋-00B4DB?style=for-the-badge&logoColor=white" height="45" />
 </p>
 
 <p align="center">
@@ -11,10 +11,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/hadi.png" width="400" style="border-radius:12px;" />
-</p>
 
 ## 🙋‍♂️ About Me
 
@@ -63,8 +59,6 @@
 </div>
 
 <br>
-
-
 
 ## 📊 My Stats
 
@@ -140,5 +134,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=100&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!%20🚀-00B4DB?style=for-the-badge&logoColor=white" height="40" />
 </p>
