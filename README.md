@@ -50,45 +50,44 @@
 
 ## 📊 Personal Stats
 
-I'm a **Flutter Developer** passionate about building clean, scalable, and user-friendly mobile applications.  
-I enjoy transforming ideas into real products using modern mobile technologies and well-structured architectures.
-
-Through my academic journey and hands-on projects, I’ve focused on developing practical skills in mobile development, API integrations, and building responsive user interfaces.
+As a passionate **Mobile App Developer**, I specialize in building **scalable and user-friendly applications using Flutter**. I hold a **Bachelor's degree in Computer Science** and have gained hands-on experience through internships and personal projects, focusing on delivering practical solutions.
 
 <details>
-<summary><strong>Highlights • Skills • Interests</strong></summary>
+  <summary><strong>Highlights / Proficiencies / Interests / Beliefs</strong></summary>
 
 ### ⭐ Highlights
-- Computer Science graduate focused on mobile application development.
-- Completed **Flutter training at ITI**, gaining hands-on experience building real applications.
-- Built multiple Flutter apps including **Weather App** and **News App**.
-- Strong interest in **clean architecture and scalable mobile apps**.
-- Constantly improving my development skills through real projects.
+- ⭐ Recent graduate with a **Bachelor’s in Computer Science and Information Systems**.
+- ⭐ Completed a **Flutter development certification from ITI**.
+- ⭐ Built multiple **Flutter applications** demonstrating strong mobile development skills.
+- ⭐ Committed to **continuous learning and skill improvement** in mobile development.
+- ⭐ Passionate about building **reliable and user-focused mobile applications**.
 
-### 🛠 Tech Stack
-- **Mobile Development:** Flutter, Dart  
-- **State Management:** BLoC, Cubit  
-- **Backend Services:** Firebase  
-- **APIs:** RESTful APIs integration  
-- **Tools:** Git, GitHub, Postman, VS Code  
-- **UI Development:** Responsive and user-focused interfaces
+### 📚 Proficiencies
+- 📚 **Flutter & Dart** for mobile application development.
+- 📚 **Firebase** for backend services and databases.
+- 📚 **State Management:** BLoC and Cubit.
+- 📚 **UI/UX principles** with a focus on responsive interfaces.
+- 📚 **Git & GitHub** for version control and collaboration.
+- 📚 **RESTful APIs** integration.
+- 📚 **Agile methodologies** for efficient project development.
 
-### 🚀 Interests
-- Building real-world mobile applications
-- Improving app architecture and performance
-- Learning modern mobile development practices
+### ✔️ Interests
+- ✔️ Exploring new technologies and trends in mobile development.
+- ✔️ Building personal projects to refine skills and experiment with new ideas.
+- ✔️ Collaborating with developers and the tech community.
 
-### 💡 Beliefs
-- Continuous learning is essential for every developer.
-- Clean and maintainable code makes scalable products.
-- Great software comes from collaboration and good design.
+### 💡 Big Believer In
+- 💡 Continuous learning and self-education.
+- 💡 Collaboration as a key factor in successful projects.
+- 💡 User feedback as a driver for improving products.
+- 💡 Technology’s ability to solve real-world problems.
 
 </details>
 
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+ 
 ## 📱 Featured Projects
 
 | Project | Description | Stack |
@@ -124,12 +123,6 @@ Through my academic journey and hands-on projects, I’ve focused on developing 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true"/>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/snake-dark.svg" />
