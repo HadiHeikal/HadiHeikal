@@ -123,15 +123,17 @@
 
 <br>
 
-## 💜 Views & Followers
+## 💙 Views & Followers
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat" />
-  <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" />
+  <a href="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat" />
+  </a>
+  <a href="https://github.com/HadiHeikal?tab=followers">
+    <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" alt="GitHub Badge" />
+  </a>
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=100&section=footer" width="100%" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=00B4DB&lines=Thanks+for+visiting!+💙;+Shoot+me+a+message+on+LinkedIn!;Always+Learning+Flutter+🚀" />
+</h3>
