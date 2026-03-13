@@ -4,44 +4,26 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=F75C7E&width=500&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
 </p>
 
----
+<p align="center">
+  <img src="https://c.tenor.com/7pHzV7uU4KsAAAAC/pink-gradient.gif" width="80%" height="4px"/>
+</p>
 
 ## 👨‍💻 About Me
 
-- 📱 **Flutter Developer** | Building **cross-platform mobile apps**  
+- 📱 **Flutter Developer** | Building **cross-platform apps**  
 - 🎓 **Computer Science Graduate** passionate about **mobile software engineering**  
-- 🎨 Focused on **Clean UI, smooth animations, and maintainable code**  
-- 🔥 Experienced in **State Management (Bloc/Cubit/Riverpod), Firebase, APIs**  
-- 🧠 Problem solver | Love writing **scalable and clean code**  
+- 🎨 Focused on **Clean UI, smooth animations & maintainable code**  
+- 🔥 Experienced in **State Management (Bloc/Cubit/Riverpod), Firebase, REST APIs**  
+- 🧠 Problem solver | Writing **scalable & clean code**  
 - 🤝 Open to **Junior & Freelance Flutter opportunities**  
 
-📫 **Email:** hadi iheikal@gmail.com
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HadiHeikal&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
+📫 **Email:** [hadiiheikal@gmail.com](mailto:hadiiheikal@gmail.com)
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman" width="50" height="50" style="transition: transform 0.3s;"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -50,23 +32,11 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
 
 ## 🔗 Connect With Me
 
@@ -81,8 +51,6 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
-
----
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀"/>
