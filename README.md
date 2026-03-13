@@ -6,7 +6,7 @@
 
 <!-- Elegant Divider -->
 <p align="center">
-<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(-1deg)"></span>
+<span style="display:inline-block;width:80%;border-bottom:3px solid #F75C7E;transform:rotate(-1deg)"></span>
 </p>
 
 ## 👨‍💻 About Me
@@ -22,30 +22,40 @@
 
 <!-- Elegant Divider -->
 <p align="center">
-<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(1deg)"></span>
+<span style="display:inline-block;width:80%;border-bottom:3px solid #F75C7E;transform:rotate(1deg)"></span>
 </p>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,postman" width="50" height="50" style="transition: transform 0.3s;"/>
 </p>
+
+<script>
+  const icons = document.querySelectorAll('img[style]');
+  icons.forEach(icon => {
+    icon.onmouseover = () => { icon.style.transform = 'scale(1.3)'; };
+    icon.onmouseout = () => { icon.style.transform = 'scale(1)'; };
+  });
+</script>
+
+<!-- Gradient Animated Background for Stats -->
+<p align="center" style="background: linear-gradient(270deg, #F75C7E, #FF69B4, #6A5ACD); background-size: 600% 600%; animation: gradientBG 15s ease infinite; padding: 10px; border-radius: 12px;">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=radical&hide_border=false&langs_count=8&bg_color=0D1117"/>
+</p>
+
+<style>
+@keyframes gradientBG {
+    0% {background-position:0% 50%;}
+    50% {background-position:100% 50%;}
+    100% {background-position:0% 50%;}
+}
+</style>
 
 <!-- Elegant Divider -->
 <p align="center">
-<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(-1deg)"></span>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=0D1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&bg_color=0D1117"/>
-</p>
-
-<!-- Elegant Divider -->
-<p align="center">
-<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(1deg)"></span>
+<span style="display:inline-block;width:80%;border-bottom:3px solid #F75C7E;transform:rotate(-1deg)"></span>
 </p>
 
 ## 🔥 GitHub Streak
@@ -56,7 +66,17 @@
 
 <!-- Elegant Divider -->
 <p align="center">
-<span style="display:inline-block;width:80%;border-bottom:2px solid #F75C7E;transform:rotate(-1deg)"></span>
+<span style="display:inline-block;width:80%;border-bottom:3px solid #F75C7E;transform:rotate(1deg)"></span>
+</p>
+
+## 💡 Random Quotes
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=500&lines=“Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.”;“Simplicity+is+the+soul+of+efficiency.”;“Any+fool+can+write+code+that+computers+can+understand.+Good+programmers+write+code+that+humans+can+understand.”"/>
+</p>
+
+<!-- Elegant Divider -->
+<p align="center">
+<span style="display:inline-block;width:80%;border-bottom:3px solid #F75C7E;transform:rotate(-1deg)"></span>
 </p>
 
 ## 🔗 Connect With Me
