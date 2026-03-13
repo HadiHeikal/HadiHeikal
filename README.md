@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E,FFD200&height=120&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E,FFD200&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
-<img src="__https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=F75C7E&width=500&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀__" /> </p> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=F7971E&secondColor=FFD200&width=520&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Always+Learning+📚" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -66,7 +68,7 @@
   <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> ⚠️ To activate the snake: go to your repo **Actions** tab → enable workflows → run **"Generate Snake"** manually once.
+> ⚠️ لتشغيل الـ Snake: روح **Actions** tab في الـ repo → فعّل الـ workflows → شغل "Generate Snake" مرة واحدة
 
 <br>
 
@@ -93,7 +95,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-135a6edaec5c.gif" />
 </div>
 
 <br>
@@ -104,3 +106,7 @@
   <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=F7971E&style=flat" />
   <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" />
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E,FFD200&height=100&section=footer" width="100%" />
+</p>
