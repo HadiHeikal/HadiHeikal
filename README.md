@@ -48,6 +48,47 @@
 
 <br>
 
+## ⚙️ Technology Stack
+
+### 🥇 Primary Technology Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23121011.svg?style=for-the-badge)
+
+</div>
+
+---
+
+### 🥈 Secondary Technology Stack
+
+<div align="center">
+
+![State Management](https://img.shields.io/badge/State%20Management-BLoC%20%2F%20Cubit-%2300B4DB.svg?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-%2300A8E8.svg?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+### 🥉 Tertiary Technology Stack
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+
 ## 📊 Personal Stats
 
 As a passionate **Mobile App Developer**, I specialize in building **scalable and user-friendly applications using Flutter**. I hold a **Bachelor's degree in Computer Science** and have gained hands-on experience through internships and personal projects, focusing on delivering practical solutions.
