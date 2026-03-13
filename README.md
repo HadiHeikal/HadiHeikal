@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <strong style="font-size:2rem"> I'm Hadi Heikal</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E,FFD200&height=120&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=F7971E&secondColor=FFD200&width=560&lines=Flutter+Developer+📱;Building+Apps+One+Widget+at+a+Time+🚀;Clean+Architecture+Enthusiast+✨;Always+Learning+📚" />
-</p>
+<img src="__https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=F75C7E&width=500&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀__" /> </p> 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
