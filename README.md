@@ -123,17 +123,13 @@
 
 <br>
 
-## 💙 Views & Followers
+## 💜 Views and Followers:
 
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat" />
-  </a>
-  <a href="https://github.com/HadiHeikal?tab=followers">
-    <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" alt="GitHub Badge" />
-  </a>
-</div>
-
+<a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+</a>
+<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=00B4DB&lines=Thanks+for+visiting!+💙;+Shoot+me+a+message+on+LinkedIn!;Always+Learning+Flutter+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
+
