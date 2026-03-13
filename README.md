@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi!%20I'm%20Hadi%20Heikal%20👋-00B4DB?style=for-the-badge&logoColor=white" height="45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=130&section=header&text=Hi!+I'm+Hadi+Heikal+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
 <p align="center">
@@ -12,14 +12,19 @@
 
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/hadi.png" width="100%" />
+</p>
+
+<br>
+
 ## 🙋‍♂️ About Me
 
-- 📱 **Flutter Developer** — 2+ years building cross-platform mobile apps
-- 🎯 Specialized in **BLoC/Cubit, Clean Architecture & REST APIs**
-- 🔥 Passionate about **smooth animations & pixel-perfect UI**
-- 🌱 Currently exploring **Riverpod & advanced state patterns**
+- 📱 **Flutter Developer** building cross-platform apps for local & international clients
+- 🎯 Focused on **Clean Architecture, BLoC/Cubit**, and smooth UI/UX
+- 🌱 Currently leveling up in **Advanced Flutter patterns**
 - 🎓 **CS Graduate** — Banha University | GPA 3.57/4.00
-- 💼 Available for **Junior roles & Freelance projects**
+- 💼 Open to **Junior & Freelance** opportunities
 - 📫 **hadiiheikal@gmail.com**
 
 <br>
@@ -33,7 +38,7 @@
 ## 🚀 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,figma,github,androidstudio,vscode,postman,git,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,androidstudio,vscode,postman,figma" />
 </div>
 
 <br>
@@ -51,21 +56,6 @@
 | [☁️ SkyCast](https://github.com/HadiHeikal/SkyCast) | Real-time weather app with dynamic theming | Flutter · Cubit · Dio |
 | [📰 A5bar Cloud](https://github.com/HadiHeikal/A5barCloud) | Live news app with bookmarks & categories | Flutter · REST API |
 | [🛒 Grocery App](https://github.com/HadiHeikal/GroceryApp) | Smart shopping app with cart management | Flutter · Cubit |
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
-
-## 🏆 Achievements
-
-- 🥇 **Co-Coach** — ECPC Qualifications (2023–2024)
-- 🌐 **IEEEXtreme 17.0** Participant — IEEE (2023–2024)
-- 🌐 **IEEEXtreme 16.0** Participant — IEEE (2022–2023)
-- 🏅 **66th Place** — ECPC Qualifications (2022–2023)
 
 <br>
 
@@ -139,7 +129,7 @@
 
 <br>
 
-## 🔵 Views & Followers
+## 💜 Views & Followers
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HadiHeikal&label=Profile+Views&color=00B4DB&style=flat" />
@@ -149,5 +139,5 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!%20🚀-00B4DB?style=for-the-badge&logoColor=white" height="40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB,0083B0&height=100&section=footer" width="100%" />
 </p>
