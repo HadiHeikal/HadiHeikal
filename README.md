@@ -47,9 +47,10 @@
 
 ## 🚀 Languages & Tools
 
-<!-- Skill icons generated from skillicons.dev -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,androidstudio,vscode,postman,figma" />
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,supabase,git,github,androidstudio,vscode,postman,figma,cpp,java,python" />
+
 </div>
 
 <br>
