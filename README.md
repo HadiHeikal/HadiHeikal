@@ -32,8 +32,7 @@
 ## 🚀 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" /><br><br>
-  <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,androidstudio,vscode,postman,figma" />
 </div>
 
 <br>
@@ -57,15 +56,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
-<br>
-
-## 🏆 Achievements
-
-- 🥇 **Co-Coach** — ECPC Qualifications (2023–2024)
-- 🌐 **IEEEXtreme 17.0** Participant — IEEE (2023–2024)
-- 🌐 **IEEEXtreme 16.0** Participant — IEEE (2022–2023)
-- 🏅 **66th Place** — ECPC Qualifications (2022–2023)
 
 <br>
 
@@ -120,14 +110,14 @@
   <a href="https://wa.me/201126781313">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/HadiHeikal" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://mostaql.com/u/YOUR_PROFILE" target="_blank">
+  <a href="https://mostaql.com/u/hadiiheikal" target="_blank">
     <img src="https://img.shields.io/badge/Mostaql-F75C7E?style=for-the-badge&logo=freelancer&logoColor=white" />
+  </a>
+  <a href="https://khamsat.com/user/hadiiheikal" target="_blank">
+    <img src="https://img.shields.io/badge/Khamsat-FF6B35?style=for-the-badge&logo=shopify&logoColor=white" />
   </a>
 </div>
 
