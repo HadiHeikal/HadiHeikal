@@ -26,12 +26,22 @@
 </h2>
 
 <!-- Short professional introduction -->
-- 📱 **Flutter Developer** building scalable cross-platform mobile applications
-- 🧠 Specialized in **Clean Architecture, BLoC/Cubit**, and well-structured Flutter codebases
-- 🎯 Focused on delivering **smooth UI/UX and reliable production-ready apps**
-- 🎓 **Computer Science Graduate** — Banha University | GPA **3.57 / 4.00**
-- 🚀 Currently exploring **advanced Flutter patterns and scalable app architecture**
-- 💼 Open to **Junior Flutter roles** and **Freelance opportunities**
+Flutter Developer | Building Clean, Maintainable, and User-Focused Mobile Applications, Passionate about developing cross-platform applications with Flutter while focusing on clean architecture, maintainable code, and great user experiences.
+
+🧠 Technical Skills
+• Clean Architecture, MVVM, Feature-Based Structure
+• BLoC/Cubit State Management
+• REST API Integration
+• Dependency Injection
+• Responsive & Adaptive UI Design
+• SOLID Principles & Clean Code
+
+🎓 Computer Science Graduate — Banha University (GPA: 3.57/4.00)
+🏆 ECPC Participant with a strong problem-solving background.
+🏆 IEEEXtreme 16.0 Problem Solving Competition Participant.
+🏆 IEEEXtreme 17.0 Problem Solving Competition Participant.
+💼 Open to Junior Flutter Developer and Freelance opportunities.
+
 - 📬 **Contact:** [hadiiheikal@gmail.com](mailto:hadiiheikal@gmail.com)
 
 <br>
