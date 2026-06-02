@@ -26,23 +26,48 @@
 </h2>
 
 <!-- Short professional introduction -->
-Flutter Developer | Building Clean, Maintainable, and User-Focused Mobile Applications, Passionate about developing cross-platform applications with Flutter while focusing on clean architecture, maintainable code, and great user experiences.
+<h4>Flutter Developer</h4>
+<p>
+Building clean, maintainable, and user-focused mobile applications.
+Passionate about developing cross-platform applications with Flutter while focusing on clean architecture,
+maintainable code, and great user experiences.
+</p>
 
-🧠 Technical Skills
-• Clean Architecture, MVVM, Feature-Based Structure
-• BLoC/Cubit State Management
-• REST API Integration
-• Dependency Injection
-• Responsive & Adaptive UI Design
-• SOLID Principles & Clean Code
+<h3>🧠 Technical Skills</h3>
+<ul>
+  <li>Clean Architecture, MVVM, Feature-Based Structure</li>
+  <li>BLoC/Cubit State Management</li>
+  <li>REST API Integration</li>
+  <li>Dependency Injection</li>
+  <li>Responsive & Adaptive UI Design</li>
+  <li>SOLID Principles & Clean Code</li>
+</ul>
 
-🎓 Computer Science Graduate — Banha University (GPA: 3.57/4.00)
-🏆 ECPC Participant with a strong problem-solving background.
-🏆 IEEEXtreme 16.0 Problem Solving Competition Participant.
-🏆 IEEEXtreme 17.0 Problem Solving Competition Participant.
-💼 Open to Junior Flutter Developer and Freelance opportunities.
+<h3>🎓 Education</h3>
+<p>
+Computer Science Graduate — Banha University (GPA: 3.57/4.00)
+</p>
 
-- 📬 **Contact:** [hadiiheikal@gmail.com](mailto:hadiiheikal@gmail.com)
+<h3>🏆 Competitions</h3>
+<ul>
+  <li>ECPC Participant</li>
+  <li>IEEEXtreme 16.0 Problem Solving Competition Participant</li>
+  <li>IEEEXtreme 17.0 Problem Solving Competition Participant</li>
+</ul>
+
+<h3>💼 Opportunities</h3>
+<p>
+Open to Flutter Developer and Freelance opportunities.
+</p>
+
+<h3>📬 Contact</h3>
+
+<p>
+<a href="mailto:hadiiheikal@gmail.com">📧 Email</a><br>
+<a href="https://www.linkedin.com/in/hadi-heikal-b113291b5/">💼 LinkedIn</a><br>
+<a href="https://github.com/HadiHeikal">🐙 GitHub</a><br>
+<a href="https://x.com/HadiiHeiikal">🐙 X </a><br>
+</p>
 
 <br>
 
