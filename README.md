@@ -28,20 +28,15 @@
 <!-- Short professional introduction -->
 <h4>Flutter Developer</h4>
 <p>
-Building clean, maintainable, and user-focused mobile applications.
-Passionate about developing cross-platform applications with Flutter while focusing on clean architecture,
-maintainable code, and great user experiences.
+  📱 <b>Flutter Developer</b> dedicated to building clean, high-performance, and user-centric mobile applications. 
+  I specialize in crafting scalable cross-platform experiences using <b>Clean Architecture</b>, <b>MVVM (Feature-Based)</b>, 
+  and robust state management with <b>BLoC/Cubit</b>.
 </p>
 
-<h3>🧠 Technical Skills</h3>
-<ul>
-  <li>Clean Architecture, MVVM, Feature-Based Structure</li>
-  <li>BLoC/Cubit State Management</li>
-  <li>REST API Integration</li>
-  <li>Dependency Injection</li>
-  <li>Responsive & Adaptive UI Design</li>
-  <li>SOLID Principles & Clean Code</li>
-</ul>
+<p>
+  My passion lies in writing maintainable, <b>SOLID-compliant</b> code, implementing clean Dependency Injection, 
+  and integrating seamless REST APIs—all while ensuring the UI is responsive, adaptive, and delivers an outstanding user experience.
+</p>
 
 <h3>🎓 Education</h3>
 <p>
@@ -58,15 +53,6 @@ Computer Science Graduate — Banha University (GPA: 3.57/4.00)
 <h3>💼 Opportunities</h3>
 <p>
 Open to Flutter Developer and Freelance opportunities.
-</p>
-
-<h3>📬 Contact</h3>
-
-<p>
-<a href="mailto:hadiiheikal@gmail.com">📧 Email</a><br>
-<a href="https://www.linkedin.com/in/hadi-heikal-b113291b5/">💼 LinkedIn</a><br>
-<a href="https://github.com/HadiHeikal">🐙 GitHub</a><br>
-<a href="https://x.com/HadiiHeiikal">🐙 X </a><br>
 </p>
 
 <br>
