@@ -26,33 +26,27 @@
 </h2>
 
 <!-- Short professional introduction -->
-<h4>Flutter Developer</h4>
 <p>
-  📱 <b>Flutter Developer</b> dedicated to building clean, high-performance, and user-centric mobile applications. 
-  I specialize in crafting scalable cross-platform experiences using <b>Clean Architecture</b>, <b>MVVM (Feature-Based)</b>, 
-  and robust state management with <b>BLoC/Cubit</b>.
+  📱 <b>Flutter Developer</b> focused on architecting high-performance, production-ready mobile applications. 
+  I specialize in turning complex product designs into scalable cross-platform systems using <b>Clean Architecture</b>, 
+  <b>MVVM (Feature-Based)</b>, and predictable state management with <b>BLoC/Cubit</b>.
 </p>
 
 <p>
-  My passion lies in writing maintainable, <b>SOLID-compliant</b> code, implementing clean Dependency Injection, 
-  and integrating seamless REST APIs—all while ensuring the UI is responsive, adaptive, and delivers an outstanding user experience.
+  My engineering philosophy revolves around writing <b>SOLID-compliant</b>, clean code, enforcing robust Dependency Injection, 
+  and designing seamless API integrations—consistently delivering fluid, adaptive, and pixel-perfect user experiences.
 </p>
 
-<h3>🎓 Education</h3>
-<p>
-Computer Science Graduate — Banha University (GPA: 3.57/4.00)
-</p>
-
-<h3>🏆 Competitions</h3>
+<h3>🎓 Education & Achievements</h3>
 <ul>
-  <li>ECPC Participant</li>
-  <li>IEEEXtreme 16.0 Problem Solving Competition Participant</li>
-  <li>IEEEXtreme 17.0 Problem Solving Competition Participant</li>
+  <li>🏫 <b>Computer Science Graduate</b> — Banha University (GPA: <b>3.57/4.00</b>)</li>
+  <li>🏆 <b>ECPC</b> Qualifications Participant</li>
+  <li>⚡ <b>IEEEXtreme 16.0 & 17.0</b> Problem Solving Participant</li>
 </ul>
 
 <h3>💼 Opportunities</h3>
 <p>
-Open to Flutter Developer and Freelance opportunities.
+  🚀 Open to Flutter Developer and Freelance opportunities.
 </p>
 
 <br>
