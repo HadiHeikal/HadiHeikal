@@ -86,11 +86,15 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-4B32C3?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI%20Pattern-009688?style=for-the-badge)
 
 ### 🥈 Secondary Technology Stack
 ![BLoC / Cubit](https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-8A2BE2?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API%20Integration-00A8E8?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🥉 Tertiary Technology Stack
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
