@@ -89,7 +89,7 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-007ACC?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-4B32C3?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI%20Pattern-009688?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-009688?style=for-the-badge)
 
 ### 🥈 Secondary Technology Stack
 ![BLoC / Cubit](https://img.shields.io/badge/BLoC%20%2F%20Cubit-6C63FF?style=for-the-badge)
