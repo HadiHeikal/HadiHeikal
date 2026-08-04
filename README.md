@@ -169,14 +169,14 @@ As a passionate **Mobile App Developer**, I specialize in building **scalable an
 
 <table>
 <tr>
-<td width="150" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/docdoc_tile.png" width="130"/>
+<td width="240" align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/docdoc_tile.png" width="220"/>
 </td>
 <td>
 
-**🩺 [DocDoc](https://github.com/HadiHeikal/docdoc_app) — Doctor Booking App**
+### 🩺 [DocDoc](https://github.com/HadiHeikal/docdoc_app) — Doctor Booking App
 
-A Flutter app for booking doctor appointments, built with a scalable state & DI foundation for predictable data flow across features.
+> A Flutter app for booking doctor appointments, built with a scalable state & DI foundation for predictable data flow across features.
 
 **✨ Key Contributions**
 - 🏗️ **Architecture:** BLoC for state management, with GetIt + Injectable for clean Dependency Injection.
@@ -186,22 +186,22 @@ A Flutter app for booking doctor appointments, built with a scalable state & DI 
 
 **🛠 Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=flat-square"/> <img src="https://img.shields.io/badge/Dio%2FRetrofit-00A8E8?style=flat-square"/> <img src="https://img.shields.io/badge/GetIt%2FInjectable-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Freezed-FF6F61?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio/Retrofit-00A8E8?style=for-the-badge"/> <img src="https://img.shields.io/badge/GetIt/Injectable-8A2BE2?style=for-the-badge"/>
 
 </td>
 </tr>
 
-<tr><td colspan="2"><hr></td></tr>
+<tr><td colspan="2"><br></td></tr>
 
 <tr>
-<td width="150" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/ehky_tile.png" width="130"/>
+<td width="240" align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/ehky_tile.png" width="220"/>
 </td>
 <td>
 
-**💬 [Ehky](https://github.com/HadiHeikal/ehky_chat_app) — Real-Time Chat App**
+### 💬 [Ehky](https://github.com/HadiHeikal/ehky_chat_app) — Real-Time Chat App
 
-A real-time messaging app built on Firebase, handling live sync, auth, and push notifications end-to-end.
+> A real-time messaging app built on Firebase, handling live sync, auth, and push notifications end-to-end.
 
 **✨ Key Contributions**
 - 🔐 **Auth:** Firebase Auth + Google Sign-In for frictionless login.
@@ -211,22 +211,22 @@ A real-time messaging app built on Firebase, handling live sync, auth, and push 
 
 **🛠 Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FCM-DD2C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FCM-DD2C00?style=for-the-badge"/>
 
 </td>
 </tr>
 
-<tr><td colspan="2"><hr></td></tr>
+<tr><td colspan="2"><br></td></tr>
 
 <tr>
-<td width="150" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/examapp_tile.png" width="130"/>
+<td width="240" align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/examapp_tile.png" width="220"/>
 </td>
 <td>
 
-**📝 [Online Exam App](https://github.com/HadiHeikal/online_exam_app) — Exam Taking App**
+### 📝 [Online Exam App](https://github.com/HadiHeikal/online_exam_app) — Exam Taking App
 
-A Flutter exam-taking app integrated with a custom backend, built with full Clean Architecture across all layers.
+> A Flutter exam-taking app integrated with a custom backend, built with full Clean Architecture across all layers.
 
 **✨ Key Contributions**
 - 🏗️ **Architecture:** Clean Architecture (Data/Domain/Presentation) for testable, maintainable code.
@@ -236,7 +236,7 @@ A Flutter exam-taking app integrated with a custom backend, built with full Clea
 
 **🛠 Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=flat-square"/> <img src="https://img.shields.io/badge/Dio%2FRetrofit-00A8E8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio/Retrofit-00A8E8?style=for-the-badge"/>
 
 </td>
 </tr>
