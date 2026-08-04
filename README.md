@@ -106,61 +106,6 @@
 </div>
 
 
-<!-- ================= PERSONAL STATS ================= -->
-
-## 📊 Personal Stats
-
-<!-- Professional summary paragraph -->
-As a passionate **Mobile App Developer**, I specialize in building **scalable and user-friendly applications using Flutter**. I hold a **Bachelor's degree in Computer Science** and have gained hands-on experience through internships and personal projects, focusing on delivering practical solutions.
-
-<!-- Expandable section -->
-<details>
-
-  <!-- Clickable summary -->
-  <summary><strong>Highlights / Proficiencies / Interests / Beliefs</strong></summary>
-
-### ⭐ Highlights
-
-<!-- Career highlights -->
-- ⭐ Recent graduate with a **Bachelor’s in Computer Science and Information Systems**.
-- ⭐ Completed a **Flutter development certification from ITI**.
-- ⭐ Built multiple **Flutter applications** demonstrating strong mobile development skills.
-- ⭐ Committed to **continuous learning and skill improvement** in mobile development.
-- ⭐ Passionate about building **reliable and user-focused mobile applications**.
-
-### 📚 Proficiencies
-
-<!-- Technical skills -->
-- 📚 **Flutter & Dart** for mobile application development.
-- 📚 **Firebase** for backend services and databases.
-- 📚 **State Management:** BLoC and Cubit.
-- 📚 **UI/UX principles** with a focus on responsive interfaces.
-- 📚 **Git & GitHub** for version control and collaboration.
-- 📚 **RESTful APIs** integration.
-- 📚 **Agile methodologies** for efficient project development.
-
-### ✔️ Interests
-
-<!-- Personal interests -->
-- ✔️ Exploring new technologies and trends in mobile development.
-- ✔️ Building personal projects to refine skills and experiment with new ideas.
-- ✔️ Collaborating with developers and the tech community.
-
-### 💡 Big Believer In
-
-<!-- Personal philosophy -->
-- 💡 Continuous learning and self-education.
-- 💡 Collaboration as a key factor in successful projects.
-- 💡 User feedback as a driver for improving products.
-- 💡 Technology’s ability to solve real-world problems.
-
-</details>
-
-<!-- Decorative divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 📱 Featured Projects
 
