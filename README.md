@@ -171,6 +171,8 @@ As a passionate **Mobile App Developer**, I specialize in building **scalable an
 <tr>
 <td width="240" align="center">
 <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/docdoc_tile.png" width="220"/>
+<br><br>
+<img src="https://img.shields.io/badge/APP-DOCTOR%20BOOKING-1E6FE0?style=for-the-badge"/>
 </td>
 <td>
 
@@ -186,16 +188,20 @@ As a passionate **Mobile App Developer**, I specialize in building **scalable an
 
 **🛠 Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio/Retrofit-00A8E8?style=for-the-badge"/> <img src="https://img.shields.io/badge/GetIt/Injectable-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio%2FRetrofit-00A8E8?style=for-the-badge"/> <img src="https://img.shields.io/badge/GetIt%2FInjectable-8A2BE2?style=for-the-badge"/>
 
 </td>
 </tr>
 
-<tr><td colspan="2"><br></td></tr>
+<tr><td colspan="2" align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/divider_1.png" width="70%"/>
+</td></tr>
 
 <tr>
 <td width="240" align="center">
 <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/ehky_tile.png" width="220"/>
+<br><br>
+<img src="https://img.shields.io/badge/APP-REAL--TIME%20CHAT-6C4AB6?style=for-the-badge"/>
 </td>
 <td>
 
@@ -216,11 +222,15 @@ As a passionate **Mobile App Developer**, I specialize in building **scalable an
 </td>
 </tr>
 
-<tr><td colspan="2"><br></td></tr>
+<tr><td colspan="2" align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/divider_2.png" width="70%"/>
+</td></tr>
 
 <tr>
 <td width="240" align="center">
 <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/examapp_tile.png" width="220"/>
+<br><br>
+<img src="https://img.shields.io/badge/APP-ONLINE%20EXAMS-C9820B?style=for-the-badge"/>
 </td>
 <td>
 
@@ -236,7 +246,7 @@ As a passionate **Mobile App Developer**, I specialize in building **scalable an
 
 **🛠 Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio/Retrofit-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio%2FRetrofit-00A8E8?style=for-the-badge"/>
 
 </td>
 </tr>
