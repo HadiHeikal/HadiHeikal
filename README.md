@@ -169,10 +169,8 @@ As a passionate **Mobile App Developer**, I specialize in building **scalable an
 
 <table>
 <tr>
-<td width="110" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/docdoc_app/main/assets/svgs/docdoc_logo.svg" width="70"/>
-<br><br>
-<img src="https://img.shields.io/badge/APP-DOCTOR%20BOOKING-0EA5E9?style=for-the-badge" />
+<td width="150" align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/docdoc_tile.png" width="130"/>
 </td>
 <td>
 
@@ -196,9 +194,8 @@ A Flutter app for booking doctor appointments, built with a scalable state & DI 
 <tr><td colspan="2"><hr></td></tr>
 
 <tr>
-<td width="110" align="center">
-<div style="font-size:40px">💬</div>
-<img src="https://img.shields.io/badge/APP-REAL%20TIME%20CHAT-FFA000?style=for-the-badge" />
+<td width="150" align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/ehky_tile.png" width="130"/>
 </td>
 <td>
 
@@ -215,6 +212,31 @@ A real-time messaging app built on Firebase, handling live sync, auth, and push 
 **🛠 Tech Stack**
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=flat-square"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FCM-DD2C00?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+<td width="150" align="center">
+<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/examapp_tile.png" width="130"/>
+</td>
+<td>
+
+**📝 [Online Exam App](https://github.com/HadiHeikal/online_exam_app) — Exam Taking App**
+
+A Flutter exam-taking app integrated with a custom backend, built with full Clean Architecture across all layers.
+
+**✨ Key Contributions**
+- 🏗️ **Architecture:** Clean Architecture (Data/Domain/Presentation) for testable, maintainable code.
+- 🌐 **Networking:** Retrofit + Dio integration with a custom backend for auth and exam flows.
+- 🐞 **Real Debugging:** Traced and fixed a broken Forgot-Password OTP flow caused by missing email/OTP parameters across the API layer.
+- 🔑 **Auth:** Secure token-based session handling.
+
+**🛠 Tech Stack**
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=flat-square"/> <img src="https://img.shields.io/badge/Dio%2FRetrofit-00A8E8?style=flat-square"/>
 
 </td>
 </tr>
