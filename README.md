@@ -27,19 +27,17 @@
 
 <!-- Short professional introduction -->
 <p>
-  📱 <b>Flutter Developer</b> focused on architecting high-performance, production-ready mobile applications. 
-  I specialize in turning complex product designs into scalable cross-platform systems using <b>Clean Architecture</b>, 
-  <b>MVVM (Feature-Based)</b>, and predictable state management with <b>BLoC/Cubit</b>.
+  📱 <b>Flutter Developer</b> specializing in <b>Clean Architecture</b> and <b>BLoC/Cubit</b> — turning product designs into scalable, production-ready mobile apps.
 </p>
 
 <p>
-  My engineering philosophy revolves around writing <b>SOLID-compliant</b>, clean code, enforcing robust Dependency Injection, 
-  and designing seamless API integrations—consistently delivering fluid, adaptive, and pixel-perfect user experiences.
+  Strong focus on <b>SOLID principles</b>, <b>Dependency Injection</b>, and clean API integrations across every project I ship.
 </p>
 
 <h3>🎓 Education & Achievements</h3>
 <ul>
   <li>🏫 <b>Computer Science Graduate</b> — Banha University (GPA: <b>3.57/4.00</b>)</li>
+  <li>📱 <b>Flutter Development Certification</b> — ITI</li>
   <li>🏆 <b>ECPC</b> Qualifications Participant</li>
   <li>⚡ <b>IEEEXtreme 16.0 & 17.0</b> Problem Solving Participant</li>
 </ul>
@@ -57,7 +55,6 @@
 </div>
 
 <br>
-
 <!-- ================= LANGUAGES & TOOLS SECTION ================= -->
 
 ## 🚀 Languages & Tools
