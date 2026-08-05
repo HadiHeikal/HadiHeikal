@@ -27,11 +27,14 @@
 
 <!-- Short professional introduction -->
 <p>
-  📱 <b>Flutter Developer</b> specializing in <b>Clean Architecture</b> and <b>BLoC/Cubit</b> — turning product designs into scalable, production-ready mobile apps.
+  <b>Flutter Developer</b> specializing in <b>Clean Architecture</b><br>
+  and <b>BLoC/Cubit</b> — turning product designs into<br>
+  scalable, production-ready mobile apps.
 </p>
 
 <p>
-  Strong focus on <b>SOLID principles</b>, <b>Dependency Injection</b>, and clean API integrations across every project I ship.
+  Strong focus on <b>SOLID principles</b>, <b>Dependency Injection</b>,<br>
+  and clean API integrations across every project I ship.
 </p>
 
 <h3>🎓 Education & Achievements</h3>
