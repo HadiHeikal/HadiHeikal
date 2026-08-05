@@ -23,7 +23,7 @@
 </h2>
 
 <!-- Animated coding GIF on the right side -->
-<img align='right' src='https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/coder.gif' width='300'>
+<img align='right' src='https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/coder.gif' width='250'>
 
 <!-- Short professional introduction -->
 <p>
