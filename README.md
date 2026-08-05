@@ -14,7 +14,7 @@
 </div>
 
 <!-- Animated coding GIF on the right side -->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/coder.gif' width='200'>
 
 <!-- ================= ABOUT ME SECTION ================= -->
 
@@ -309,6 +309,10 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💙;+Shoot+me+a+message+on+Linkedin!;Always+Learning+🚀&color=00B4DB">
 </h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150">
+</div>
 
 <!-- Footer wave -->
 <p align="center">
