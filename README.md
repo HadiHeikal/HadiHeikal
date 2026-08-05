@@ -13,9 +13,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- Animated coding GIF on the right side -->
-<img align='right' src='https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/coder.gif' width='200'>
-
 <!-- ================= ABOUT ME SECTION ================= -->
 
 <!-- About Me Section -->
@@ -24,6 +21,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   <span style="color: #8B5CF6;">About Me</span>
 </h2>
+
+<!-- Animated coding GIF on the right side -->
+<img align='right' src='https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/night_coder.gif' width='200'>
 
 <!-- Short professional introduction -->
 <p>
