@@ -99,11 +99,11 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### 🧪 Testing Stack
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-flutter__test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Widget Testing](https://img.shields.io/badge/Widget%20Testing-flutter__test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Integration Testing](https://img.shields.io/badge/Integration%20Testing-integration__test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bloc Test](https://img.shields.io/badge/State%20Testing-bloc__test-6C63FF?style=for-the-badge)
-![Mocktail](https://img.shields.io/badge/Mocking-mocktail-8A2BE2?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Widget Testing](https://img.shields.io/badge/Widget%20Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/Integration%20Testing-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc Test](https://img.shields.io/badge/Bloc%20Test-6C63FF?style=for-the-badge)
+![Mocktail](https://img.shields.io/badge/Mocktail-8A2BE2?style=for-the-badge)
 
 <!-- Decorative divider -->
 <div align="center">
