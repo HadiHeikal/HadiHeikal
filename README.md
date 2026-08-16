@@ -208,9 +208,12 @@
 
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
-<p align="center">
-<img height="195px" width="470px" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /><img height="195px" width="375px" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="55%"><img height="195px" width="100%" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></td>
+<td width="45%"><img height="195px" width="100%" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></td>
+</tr>
+</table>
 
 <!-- Decorative divider -->
 <div align="center">
@@ -221,7 +224,7 @@
 <!-- ================= GITHUB STREAK ================= -->
 ## 🔥 GitHub Streak
 <p align="center">
-  <img height="195px" width="845px" src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true"/>
+  <img height="195px" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/snake-dark.svg" />
@@ -232,7 +235,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
-
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
 ## 📈 Contribution Graph
