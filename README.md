@@ -208,10 +208,10 @@
 
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
-<div align="center">
+<p align="center">
   <img height="195" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="195" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+  <img height="195" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <!-- Decorative divider -->
 <div align="center">
