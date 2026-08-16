@@ -209,9 +209,9 @@
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="195" width="470" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /><img height="195" width="375" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="195" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=460" />
+  <img height="195" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=390" />
 </div>
-
 <!-- Decorative divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
