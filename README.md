@@ -209,7 +209,7 @@
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="190" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=450" /><img height="195" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=380" />
+  <img height="190" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=455" /><img height="195" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&card_width=385" />
 </div>
 <!-- Decorative divider -->
 <div align="center">
@@ -223,7 +223,6 @@
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true&card_width=845"/>
 </p>
 
-// snake code
 <p align="center">
   <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/snake-dark.svg" />
 </p>
