@@ -222,7 +222,7 @@
 <!-- ================= GITHUB STREAK ================= -->
 ## 🔥 GitHub Streak
 <div align="center">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true" />
+  <img height="195" width="845px" src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true" />
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/snake-dark.svg" />
