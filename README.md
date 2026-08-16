@@ -208,9 +208,9 @@
 
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="195" width="60%" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /><img height="195" width="40%" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="195" width="470" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /><img height="195" width="375" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 <!-- Decorative divider -->
 <div align="center">
