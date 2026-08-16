@@ -212,8 +212,8 @@
 
 <!-- GitHub stats cards -->
 <p align="center">
-    <img height="180em" src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=react&bg_color=161B22&border_color=30363d" />
-    <img height="180em" src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=161B22&border_color=30363d" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=react&border_color=30363d&bg_color=161B22" />
+    <img src="https://github-readme-stats-hadi.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=react&border_color=30363d&bg_color=161B22" />
 </p>
 
 <!-- Decorative divider -->
