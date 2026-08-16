@@ -221,9 +221,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HadiHeikal&theme=react&no-frame=true&column=7" />
+  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/profile-trophy.svg" />
 </p>
-
 <!-- Decorative divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
